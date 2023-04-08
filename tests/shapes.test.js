@@ -7,9 +7,9 @@ const { Triangle, Circle } = require('../lib/Shapes.js')
 describe('Circle', () => {
     describe('fillcolor', () => {
         it('should take in set color and check to see it is correct', () => {
-            const shape = new Circle();
-            const circle = shape.fillcolor("blue");
-            expect(circle.render()).toEqual(`<circle cx="100" cy="100" r="100" fill="blue"/>`);
+            const shape = new Circle("fillcolor");
+            shape.display("blue");
+            expect(NEEDAMETHOD.render()).toEqual(`<circle cx="100" cy="100" r="100" fill="blue"/>`);
         });
     });
 });
