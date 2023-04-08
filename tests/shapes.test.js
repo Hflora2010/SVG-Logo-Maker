@@ -1,4 +1,4 @@
-const { Triangle, Circle, Polygon, Rectangle } = require('../lib/Shapes.js')
+const { Circle, Polygon, Rectangle } = require('../lib/shapes.js')
 
 describe("Circle", () => {
     test("TEST", () => {

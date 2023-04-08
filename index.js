@@ -11,7 +11,7 @@ const { generateSVG } = require('./lib/shapes');
 const questions = [
     {
         type: 'input',
-        message: 'Enter the characters for your logo. No more than 3 characters',
+        message: 'Enter the characters for your logo. No more than 3 characters please',
         name: 'text',
     },
     {
