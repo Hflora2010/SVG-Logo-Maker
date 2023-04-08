@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="200" height="300">
+        <polygon points= "50,0 100,100 0,100" x="14" y="23" fill="White"/> 
+        <text fill="Green" font-size="20" font-family="Verdana" x="28" y="70">SVG</text>
+        </svg>
