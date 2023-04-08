@@ -21,7 +21,7 @@ Below is a link to this project's application on my personal Github account: <br
 <br>
 
 You can access the full video at the following link: <br>
-<a href="https://drive.google.com/file/d/1RL7gX8-xivEKjYmsueAh0rQqErgDDzmN/view"> Full README Generator Application Demonstration</a><br>
+<a href="https://drive.google.com/file/d/1Kxh9ii5aXGopdXwEijn8uwNjoj0t6OPu/view"> Full Logo Maker Application Demonstration</a><br>
 
 
 ## Credits
