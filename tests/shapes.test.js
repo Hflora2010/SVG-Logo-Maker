@@ -9,7 +9,7 @@ describe('Circle', () => {
         it('should take in set color and check to see it is correct', () => {
             const shape = new Circle();
             const circle = shape.fillcolor("blue");
-            expect(shape.render()).toEqual(`<circle cx="100" cy="100" r="100" fill="blue"/>`);
+            expect(circle.render()).toEqual(`<circle cx="100" cy="100" r="100" fill="blue"/>`);
         });
     });
 });
