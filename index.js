@@ -5,7 +5,7 @@ const fs = require('fs');
 
 const inquirer = require('inquirer');
 
-const { generateSVG } = require('./lib/shapes');
+const { generateSVG } = require('./lib/Shapes');
 
 // TODO: Create an array of questions for user input
 const questions = [
